@@ -1,0 +1,9 @@
+[package]
+name = "nexus_force"
+version = "0.1.0"
+authors = ["Xiphoseer"]
+edition = "2018"
+license = "MIT"
+description = "Library for social/modding in LU related software"
+
+[dependencies]
